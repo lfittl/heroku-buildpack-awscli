@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export PATH=~/vendor/awscli/bin:\$PATH
+export PATH=~/vendor/awscli/bin:$PATH
 
 mkdir ~/.aws
 
